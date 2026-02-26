@@ -10,5 +10,11 @@
   "termB": "revenge (English)",
   "explanation": "Often used as 'try again after failing'. (Set 6)",
   "example": "去年落ちた試験に今年リベンジする。"    
-}
+},
+    {
+          "termA": "クレーム (kureemu)",
+          "termB": "claim (English)",
+          "explanation": "In Japanese it usually means complaint. (Set 4)",
+          "example": "お客様からクレームが届いた。"
+    }
 ]
